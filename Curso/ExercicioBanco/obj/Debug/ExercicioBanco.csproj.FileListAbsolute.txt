@@ -1,0 +1,7 @@
+D:\Programacao\c#\CURSOCSHARP\Curso\ExercicioBanco\bin\Debug\ExercicioBanco.exe.config
+D:\Programacao\c#\CURSOCSHARP\Curso\ExercicioBanco\bin\Debug\ExercicioBanco.exe
+D:\Programacao\c#\CURSOCSHARP\Curso\ExercicioBanco\bin\Debug\ExercicioBanco.pdb
+D:\Programacao\c#\CURSOCSHARP\Curso\ExercicioBanco\obj\Debug\ExercicioBanco.csprojAssemblyReference.cache
+D:\Programacao\c#\CURSOCSHARP\Curso\ExercicioBanco\obj\Debug\ExercicioBanco.csproj.CoreCompileInputs.cache
+D:\Programacao\c#\CURSOCSHARP\Curso\ExercicioBanco\obj\Debug\ExercicioBanco.exe
+D:\Programacao\c#\CURSOCSHARP\Curso\ExercicioBanco\obj\Debug\ExercicioBanco.pdb

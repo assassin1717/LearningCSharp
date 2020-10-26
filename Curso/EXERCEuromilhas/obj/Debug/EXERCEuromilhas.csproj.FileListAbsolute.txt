@@ -1,0 +1,7 @@
+D:\Programacao\c#\CURSOCSHARP\Curso\EXERCEuromilhas\obj\Debug\EXERCEuromilhas.csprojAssemblyReference.cache
+D:\Programacao\c#\CURSOCSHARP\Curso\EXERCEuromilhas\obj\Debug\EXERCEuromilhas.csproj.CoreCompileInputs.cache
+D:\Programacao\c#\CURSOCSHARP\Curso\EXERCEuromilhas\bin\Debug\EXERCEuromilhas.exe.config
+D:\Programacao\c#\CURSOCSHARP\Curso\EXERCEuromilhas\bin\Debug\EXERCEuromilhas.exe
+D:\Programacao\c#\CURSOCSHARP\Curso\EXERCEuromilhas\bin\Debug\EXERCEuromilhas.pdb
+D:\Programacao\c#\CURSOCSHARP\Curso\EXERCEuromilhas\obj\Debug\EXERCEuromilhas.exe
+D:\Programacao\c#\CURSOCSHARP\Curso\EXERCEuromilhas\obj\Debug\EXERCEuromilhas.pdb

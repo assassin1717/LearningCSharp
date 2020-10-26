@@ -1,0 +1,6 @@
+D:\Programacao\c#\CURSOCSHARP\Curso\MembrosEstaticosEX\bin\Debug\MembrosEstaticosEX.exe.config
+D:\Programacao\c#\CURSOCSHARP\Curso\MembrosEstaticosEX\bin\Debug\MembrosEstaticosEX.exe
+D:\Programacao\c#\CURSOCSHARP\Curso\MembrosEstaticosEX\bin\Debug\MembrosEstaticosEX.pdb
+D:\Programacao\c#\CURSOCSHARP\Curso\MembrosEstaticosEX\obj\Debug\MembrosEstaticosEX.csproj.CoreCompileInputs.cache
+D:\Programacao\c#\CURSOCSHARP\Curso\MembrosEstaticosEX\obj\Debug\MembrosEstaticosEX.exe
+D:\Programacao\c#\CURSOCSHARP\Curso\MembrosEstaticosEX\obj\Debug\MembrosEstaticosEX.pdb

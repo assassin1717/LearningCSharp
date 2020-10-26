@@ -1,0 +1,10 @@
+C:\Users\tiago\Desktop\CURSOCSHARP\Curso\Exercicio1-Objetos\bin\Debug\netcoreapp2.1\Exercicio1-Objetos.deps.json
+C:\Users\tiago\Desktop\CURSOCSHARP\Curso\Exercicio1-Objetos\bin\Debug\netcoreapp2.1\Exercicio1-Objetos.runtimeconfig.json
+C:\Users\tiago\Desktop\CURSOCSHARP\Curso\Exercicio1-Objetos\bin\Debug\netcoreapp2.1\Exercicio1-Objetos.runtimeconfig.dev.json
+C:\Users\tiago\Desktop\CURSOCSHARP\Curso\Exercicio1-Objetos\bin\Debug\netcoreapp2.1\Exercicio1-Objetos.dll
+C:\Users\tiago\Desktop\CURSOCSHARP\Curso\Exercicio1-Objetos\bin\Debug\netcoreapp2.1\Exercicio1-Objetos.pdb
+C:\Users\tiago\Desktop\CURSOCSHARP\Curso\Exercicio1-Objetos\obj\Debug\netcoreapp2.1\Exercicio1-Objetos.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\CURSOCSHARP\Curso\Exercicio1-Objetos\obj\Debug\netcoreapp2.1\Exercicio1-Objetos.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\CURSOCSHARP\Curso\Exercicio1-Objetos\obj\Debug\netcoreapp2.1\Exercicio1-Objetos.AssemblyInfo.cs
+C:\Users\tiago\Desktop\CURSOCSHARP\Curso\Exercicio1-Objetos\obj\Debug\netcoreapp2.1\Exercicio1-Objetos.dll
+C:\Users\tiago\Desktop\CURSOCSHARP\Curso\Exercicio1-Objetos\obj\Debug\netcoreapp2.1\Exercicio1-Objetos.pdb

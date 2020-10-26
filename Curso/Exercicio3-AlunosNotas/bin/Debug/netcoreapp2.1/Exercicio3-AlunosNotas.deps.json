@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Exercicio3-AlunosNotas/1.0.0": {
+        "runtime": {
+          "Exercicio3-AlunosNotas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio3-AlunosNotas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

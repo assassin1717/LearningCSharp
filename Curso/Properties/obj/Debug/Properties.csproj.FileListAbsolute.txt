@@ -1,0 +1,7 @@
+D:\Programacao\c#\CURSOCSHARP\Curso\Properties\bin\Debug\Properties.exe.config
+D:\Programacao\c#\CURSOCSHARP\Curso\Properties\bin\Debug\Properties.exe
+D:\Programacao\c#\CURSOCSHARP\Curso\Properties\bin\Debug\Properties.pdb
+D:\Programacao\c#\CURSOCSHARP\Curso\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+D:\Programacao\c#\CURSOCSHARP\Curso\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+D:\Programacao\c#\CURSOCSHARP\Curso\Properties\obj\Debug\Properties.exe
+D:\Programacao\c#\CURSOCSHARP\Curso\Properties\obj\Debug\Properties.pdb

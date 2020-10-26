@@ -1,0 +1,7 @@
+D:\Programacao\c#\CURSOCSHARP\Curso\EXEREuromilhoesBot\bin\Debug\EXEREuromilhoesBot.exe.config
+D:\Programacao\c#\CURSOCSHARP\Curso\EXEREuromilhoesBot\bin\Debug\EXEREuromilhoesBot.exe
+D:\Programacao\c#\CURSOCSHARP\Curso\EXEREuromilhoesBot\bin\Debug\EXEREuromilhoesBot.pdb
+D:\Programacao\c#\CURSOCSHARP\Curso\EXEREuromilhoesBot\obj\Debug\EXEREuromilhoesBot.csproj.CoreCompileInputs.cache
+D:\Programacao\c#\CURSOCSHARP\Curso\EXEREuromilhoesBot\obj\Debug\EXEREuromilhoesBot.exe
+D:\Programacao\c#\CURSOCSHARP\Curso\EXEREuromilhoesBot\obj\Debug\EXEREuromilhoesBot.pdb
+D:\Programacao\c#\CURSOCSHARP\Curso\EXEREuromilhoesBot\obj\Debug\EXEREuromilhoesBot.csprojAssemblyReference.cache
