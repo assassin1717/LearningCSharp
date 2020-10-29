@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Exercicio3-AlunosNotas\\Exercicio3-AlunosNotas.csproj": {}
+    "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Exercicio3-AlunosNotas\\Exercicio3-AlunosNotas.csproj": {}
   },
   "projects": {
-    "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Exercicio3-AlunosNotas\\Exercicio3-AlunosNotas.csproj": {
+    "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Exercicio3-AlunosNotas\\Exercicio3-AlunosNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Exercicio3-AlunosNotas\\Exercicio3-AlunosNotas.csproj",
+        "projectUniqueName": "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Exercicio3-AlunosNotas\\Exercicio3-AlunosNotas.csproj",
         "projectName": "Exercicio3-AlunosNotas",
-        "projectPath": "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Exercicio3-AlunosNotas\\Exercicio3-AlunosNotas.csproj",
+        "projectPath": "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Exercicio3-AlunosNotas\\Exercicio3-AlunosNotas.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Exercicio3-AlunosNotas\\obj\\",
+        "outputPath": "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Exercicio3-AlunosNotas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",

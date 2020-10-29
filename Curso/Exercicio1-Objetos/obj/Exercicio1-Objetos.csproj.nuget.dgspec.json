@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Exercicio1-Objetos\\Exercicio1-Objetos.csproj": {}
+    "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Exercicio1-Objetos\\Exercicio1-Objetos.csproj": {}
   },
   "projects": {
-    "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Exercicio1-Objetos\\Exercicio1-Objetos.csproj": {
+    "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Exercicio1-Objetos\\Exercicio1-Objetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Exercicio1-Objetos\\Exercicio1-Objetos.csproj",
+        "projectUniqueName": "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Exercicio1-Objetos\\Exercicio1-Objetos.csproj",
         "projectName": "Exercicio1-Objetos",
-        "projectPath": "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Exercicio1-Objetos\\Exercicio1-Objetos.csproj",
+        "projectPath": "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Exercicio1-Objetos\\Exercicio1-Objetos.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Exercicio1-Objetos\\obj\\",
+        "outputPath": "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Exercicio1-Objetos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",

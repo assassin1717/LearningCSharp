@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vzRfqjDk2m+4/7hJ6xOJp8eUJk6vfMRthSjpsy9RqaiyEw2LRWQgShIIx3dj2S14/dehDRklzcdqD8DHWWKcuw==",
+  "dgSpecHash": "sjfm3+M4HbCoueQQNJd0I1rfjdu2XRT0Rir4AOFZud6nrBbMxd7d2DUoXr6yB0vA1siEbYUCJvRdgvLWBetz9w==",
   "success": true,
-  "projectFilePath": "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Exercicio3-AlunosNotas\\Exercicio3-AlunosNotas.csproj",
+  "projectFilePath": "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Exercicio3-AlunosNotas\\Exercicio3-AlunosNotas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

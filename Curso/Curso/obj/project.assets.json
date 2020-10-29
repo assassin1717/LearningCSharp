@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Curso\\Curso.csproj",
+      "projectUniqueName": "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Curso\\Curso.csproj",
       "projectName": "Curso",
-      "projectPath": "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Curso\\Curso.csproj",
+      "projectPath": "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Curso\\Curso.csproj",
       "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-      "outputPath": "D:\\Programacao\\c#\\CURSOCSHARP\\Curso\\Curso\\obj\\",
+      "outputPath": "D:\\Programacao\\c#\\Learning\\LearningCSharp\\Curso\\Curso\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
